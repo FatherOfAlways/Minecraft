@@ -1,0 +1,11 @@
+{
+    "ModSettings": {
+        "highlight_foused_items_foreground": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_inventory_editor_button": false,
+        "continuous_crafting_saved_value": false
+    }
+}

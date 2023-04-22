@@ -1,2 +1,3 @@
 # Minecraft
-Minecraft Mods &amp; Config
+
+Minecraft Mods, Config, Shaders, Textures.

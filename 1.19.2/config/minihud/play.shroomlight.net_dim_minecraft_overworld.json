@@ -16,7 +16,7 @@
         "render_type": "full_block",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,
@@ -44,7 +44,7 @@
         "render_type": "full_block",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,
@@ -71,7 +71,7 @@
         "render_type": "outer_edge",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,
@@ -99,7 +99,7 @@
         "render_type": "outer_edge",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,
@@ -126,7 +126,7 @@
         "render_type": "outer_edge",
         "layers": {
           "mode": "ALL",
-          "axis": "y",
+          "axis": "Y",
           "layer_single": 0,
           "layer_above": 0,
           "layer_below": 0,

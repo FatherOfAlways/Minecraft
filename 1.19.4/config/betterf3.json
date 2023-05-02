@@ -80,7 +80,7 @@
 			"lines": {
 				"fps": true
 			},
-			"enabled": true,
+			"enabled": false,
 			"color_low": 16733525
 		}, 
 		{

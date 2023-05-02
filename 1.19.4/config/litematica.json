@@ -62,7 +62,7 @@
     "commandNameSetblock": "setblock",
     "commandNameSummon": "summon",
     "commandTaskInterval": 1,
-    "customSchematicBaseDirectory": "/Users/tomazfidel/Library/Application Support/minecraft/schematics",
+    "customSchematicBaseDirectory": "C:\\Users\\FatherOfAlways\\AppData\\Roaming\\.minecraft\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
     "toolItem": "minecraft:stick"

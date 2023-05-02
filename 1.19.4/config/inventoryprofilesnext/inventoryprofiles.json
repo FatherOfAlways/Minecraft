@@ -4,8 +4,16 @@
         "first_run": false
     },
     "GuiSettings": {
-        "enable_profiles_ui": false,
-        "enable_inventory_editor_button": false,
-        "continuous_crafting_saved_value": false
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        }
     }
 }

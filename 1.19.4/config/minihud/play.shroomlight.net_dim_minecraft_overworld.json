@@ -64,37 +64,9 @@
         "radius": 16.0
       },
       {
-        "type": "despawn_sphere",
-        "color": 1621114960,
-        "enabled": false,
-        "display_name": "Despawn Sphere ( \u003e 128)",
-        "render_type": "outer_edge",
-        "layers": {
-          "mode": "ALL",
-          "axis": "y",
-          "layer_single": 0,
-          "layer_above": 0,
-          "layer_below": 0,
-          "layer_range_min": 0,
-          "layer_range_max": 0,
-          "hotkey_range_min": false,
-          "hotkey_range_max": false
-        },
-        "snap": "center",
-        "combine_quads": false,
-        "center": [
-          4416.5,
-          -51.0,
-          6128.5
-        ],
-        "main_axis": "UP",
-        "radius": 128.0,
-        "margin": 1.5
-      },
-      {
         "type": "sphere_blocky",
         "color": 1613803696,
-        "enabled": true,
+        "enabled": false,
         "display_name": "Sphere (block-based)",
         "render_type": "outer_edge",
         "layers": {
@@ -144,6 +116,34 @@
         ],
         "main_axis": "UP",
         "radius": 73.0
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": false,
+        "display_name": "Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -3487.5,
+          184.0,
+          -5903.5
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
       }
     ]
   }

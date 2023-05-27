@@ -110,7 +110,7 @@
     "requireSneak": false,
     "shulkerBoxPreview": true,
     "shulkerDisplayBgColor": true,
-    "shulkerDisplayRequireShift": true,
+    "shulkerDisplayRequireShift": false,
     "sortLinesByLength": false,
     "sortLinesReversed": false,
     "structuresRenderThrough": false,
@@ -118,7 +118,7 @@
     "useFontShadow": false,
     "useTextBackground": true,
     "mainRenderingToggle": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": "H"
       }
@@ -403,7 +403,7 @@
       "keys": ""
     },
     "overlayLightLevel": {
-      "keys": "L"
+      "keys": ""
     },
     "overlayRandomTicksFixed": {
       "keys": ""
@@ -565,8 +565,8 @@
     "Jungle Temple": false,
     "Mansion": false,
     "Mineshaft": false,
-    "Nether Fortress": false,
-    "Nether Fossil": false,
+    "Nether Fortress": true,
+    "Nether Fossil": true,
     "Ocean Monument": false,
     "Ocean Ruin": false,
     "Pillager Outpost": false,

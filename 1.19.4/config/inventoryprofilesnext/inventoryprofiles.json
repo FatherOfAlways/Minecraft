@@ -1,6 +1,10 @@
 {
     "ModSettings": {
+        "always_include_hotbar": true,
         "highlight_foused_items_foreground": false,
+        "restock_hotbar": {
+            "value": true
+        },
         "first_run": false
     },
     "GuiSettings": {
@@ -15,5 +19,11 @@
         "locked_slots_empty_hotbar_as_semi_locked": {
             "value": false
         }
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 2,
+        "threshold_unit": "PERCENTAGE",
+        "auto_refill_match_custom_name": false,
+        "auto_refill_match_nbt": false
     }
 }

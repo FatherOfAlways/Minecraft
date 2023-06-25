@@ -1,0 +1,44 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:gold_ingot"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:rotten_flesh"
+            }
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ]
+    }
+}

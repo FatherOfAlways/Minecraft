@@ -1,0 +1,150 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "shapes": {
+    "shapes": [
+      {
+        "type": "circle",
+        "color": 1616261296,
+        "enabled": false,
+        "display_name": "Circle / Cylinder",
+        "render_type": "full_block",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          4459.551277120713,
+          130.0,
+          6168.515347269941
+        ],
+        "main_axis": "UP",
+        "radius": 16.0,
+        "height": 10
+      },
+      {
+        "type": "sphere_blocky",
+        "color": 1618260016,
+        "enabled": false,
+        "display_name": "Sphere (block-based)",
+        "render_type": "full_block",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "corner",
+        "combine_quads": false,
+        "center": [
+          4460.3334614362775,
+          140.0,
+          6169.444267851575
+        ],
+        "main_axis": "UP",
+        "radius": 16.0
+      },
+      {
+        "type": "sphere_blocky",
+        "color": 1613803696,
+        "enabled": false,
+        "display_name": "Sphere (block-based)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -3028.5,
+          170.0,
+          -7780.5
+        ],
+        "main_axis": "UP",
+        "radius": 31.0
+      },
+      {
+        "type": "sphere_blocky",
+        "color": 1613803696,
+        "enabled": false,
+        "display_name": "Sphere (Megabase?)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -6881.5,
+          149.0,
+          5342.5
+        ],
+        "main_axis": "UP",
+        "radius": 73.0
+      },
+      {
+        "type": "despawn_sphere",
+        "color": 1621114960,
+        "enabled": false,
+        "display_name": "Despawn Sphere ( \u003e 128)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          -4024.9684093476462,
+          158.5205987805984,
+          -6087.221096278142
+        ],
+        "main_axis": "UP",
+        "radius": 128.0,
+        "margin": 1.5
+      }
+    ]
+  }
+}

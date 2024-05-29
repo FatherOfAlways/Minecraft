@@ -118,7 +118,7 @@
     "useFontShadow": false,
     "useTextBackground": true,
     "mainRenderingToggle": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": "H"
       }
@@ -370,7 +370,7 @@
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
-    "overlayLightLevel": false,
+    "overlayLightLevel": true,
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
     "overlayRegionFile": false,

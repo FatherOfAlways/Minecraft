@@ -1,11 +1,12 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:355
+ignoreUpdate:375
 settingsButton:false
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 radarHideInvisibleEntities:true
+allowInternetAccess:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:true
 minimap:true
@@ -104,7 +105,8 @@ infoDisplayBackgroundOpacity:40
 caveModeToggleTimer:1000
 legibleCaveMaps:false
 biomeBlending:true
-displayPacPlayers:true
+displayTrackedPlayers:true
+dimensionScaledMaxWaypointDistance:true
 displayClaims:true
 displayCurrentClaim:true
 claimsFillOpacity:46

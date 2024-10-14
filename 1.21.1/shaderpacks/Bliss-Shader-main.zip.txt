@@ -1,0 +1,6 @@
+#Sun Jun 16 02:02:58 CEST 2024
+CloudLayer0_height=120
+RAYMARCH_CLOUDS_WITH_FOG=true
+Dirt_Scatter_B=0.5
+Dirt_Scatter_R=0.5
+Dirt_Scatter_G=0.5

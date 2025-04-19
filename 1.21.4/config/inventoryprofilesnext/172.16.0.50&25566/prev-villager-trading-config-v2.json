@@ -1,0 +1,454 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:pumpkin"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:melon"
+            }
+        ],
+        "fisherman": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:string"
+            }
+        ],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:string"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stick"
+            }
+        ],
+        "leatherworker": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:leather"
+            }
+        ],
+        "librarian": [],
+        "mason": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stone"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:andesite"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:granite"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:diorite"
+            }
+        ],
+        "shepherd": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:white_wool"
+            }
+        ],
+        "toolsmith": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "weaponsmith": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "nitwit": [],
+        "none": []
+    },
+    "localBookmarks": {
+        "0fc3003a-5fca-4910-b6e6-e5cbee7427b3": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "2a358b6c-a9f6-468b-a968-58af84ce3890": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "db5b9d64-6baf-4e06-af37-322936dfff09": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "ddb9018c-7a5e-409d-95ee-83246f038390": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "69bf89e8-ba8d-40c2-bc8a-aaa6308fed14": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "5dea6c56-5a2e-47e6-9278-a31c2ea458e6": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b16bae4c-567a-47d9-b5e6-d343c078e082": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "6f0bb429-1192-4bc8-8c9f-87e30b8987de": [
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8c3db637-f4da-4cdc-9455-c0454de073b1": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "817c8bd2-2efc-4c2a-a939-4269e1f48543": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b4e6e309-2307-4aa8-bb38-406e45a5fd69": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "5a76743c-78f8-4cf0-a6bb-7532ce603eb8": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "7afcf2e3-6bd4-4786-97c6-b2b7d2423fa9": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "738d269a-f0d5-483b-8cc4-b6bb4922e150": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "6e07a76f-a3a2-43f8-bae3-b7b3a949be37": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "099279be-b545-4fec-96ac-e36cc66bd803": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "4fe71170-e417-47c5-9f89-4586e15d510f": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b8b0f777-e8eb-4cb8-b2d8-e927d5775fc4": [
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "a5aecdce-176b-45e4-8f31-ec6c306d5b61": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "c1ff4920-8a53-4d57-b039-eb0134b48f0b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "42d3d5ca-fdc0-46e7-9924-cfbdf0666c5d": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "dc48ef20-7434-4cb7-b06e-2f6fb6bd62e3": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "5667b3cb-f6f6-41a1-9144-2637a283312b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "07ca3570-ac9f-4ba8-adf9-16143e2c12e2": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "34381eb2-84c3-41d0-b865-84bd34d5a63b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:experience_bottle",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8d47885d-e8c9-4c79-883a-a48e2ac277ec": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "c562088a-d1a3-44f6-be76-6a69c65749e2": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b17c93e9-5d35-4f8b-a15f-5645a2916cc7": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8b4d571f-2c24-48c3-85cb-8bdb0da092fc": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": []
+    }
+}

@@ -1,0 +1,596 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "butcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:porkchop"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:chicken"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:beef"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:sweet_berries"
+            }
+        ],
+        "cartographer": [],
+        "cleric": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:rotten_flesh"
+            },
+            {
+                "resultItem": "minecraft:glowstone",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "farmer": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:pumpkin"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:melon"
+            }
+        ],
+        "fisherman": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:string"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:cod"
+            }
+        ],
+        "fletcher": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:string"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stick"
+            }
+        ],
+        "leatherworker": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:leather"
+            }
+        ],
+        "librarian": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:book"
+            }
+        ],
+        "mason": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:andesite"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:stone"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:granite"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:diorite"
+            }
+        ],
+        "shepherd": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:black_wool"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:brown_wool"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:white_wool"
+            }
+        ],
+        "toolsmith": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "weaponsmith": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": []
+    },
+    "localBookmarks": {
+        "5cb0861f-07ea-4a80-b4e2-cc73cc1ca24b": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:fortune\":3}}}}"
+            }
+        ],
+        "ffe8f8fb-f9d9-4772-bb11-e042c15bece3": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:knockback\":2}}}}"
+            }
+        ],
+        "5dea6c56-5a2e-47e6-9278-a31c2ea458e6": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b16bae4c-567a-47d9-b5e6-d343c078e082": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "6f0bb429-1192-4bc8-8c9f-87e30b8987de": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8c3db637-f4da-4cdc-9455-c0454de073b1": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "817c8bd2-2efc-4c2a-a939-4269e1f48543": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b4e6e309-2307-4aa8-bb38-406e45a5fd69": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "5a76743c-78f8-4cf0-a6bb-7532ce603eb8": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "7afcf2e3-6bd4-4786-97c6-b2b7d2423fa9": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "738d269a-f0d5-483b-8cc4-b6bb4922e150": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "6e07a76f-a3a2-43f8-bae3-b7b3a949be37": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "099279be-b545-4fec-96ac-e36cc66bd803": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "4fe71170-e417-47c5-9f89-4586e15d510f": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "34381eb2-84c3-41d0-b865-84bd34d5a63b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "07ca3570-ac9f-4ba8-adf9-16143e2c12e2": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "5667b3cb-f6f6-41a1-9144-2637a283312b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "dc48ef20-7434-4cb7-b06e-2f6fb6bd62e3": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "42d3d5ca-fdc0-46e7-9924-cfbdf0666c5d": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "c1ff4920-8a53-4d57-b039-eb0134b48f0b": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "a5aecdce-176b-45e4-8f31-ec6c306d5b61": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b8b0f777-e8eb-4cb8-b2d8-e927d5775fc4": [
+            {
+                "resultItem": "minecraft:lapis_lazuli",
+                "priceItem1": "minecraft:emerald"
+            },
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:glass_bottle"
+            }
+        ],
+        "8b15bd46-6009-442a-9961-d8ef59fcbc53": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "abdc19f1-5a30-42f3-a692-3de01c26759a": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "21f7663c-94a8-4288-89c8-009fedf95209": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "2c3acaee-0b4e-4f4d-bcb4-55269e1a29b6": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "24e4f705-bb2c-4790-969f-4408da3768f3": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "d52df214-58f0-4091-8658-7dc64e832297": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "e6a73f44-e9b7-4e84-80fd-6bd26098287f": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "02400f18-9147-46b8-bd74-8bded3a83f4e": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "10eebe62-4a86-479b-ab60-ae54ba76abca": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "1964517e-068a-4b52-b761-0bd612a881e2": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "ab1d21cf-5875-4d79-b13b-dc4934dfb6e3": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "db636ef8-959b-4215-88a5-e21375982064": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "76d4e260-23c9-49fc-8782-2507a66fab3c": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "e8b7c737-f07d-4d18-8fd3-203279e5fb01": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "6fa5861a-c0b4-4914-ba06-87309785b090": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "646b7c4a-c717-4817-8898-4d20e5aee061": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b1d8d487-f874-4aad-86a7-e16c35580d70": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "0f5b2558-59bf-4fb3-8364-7e78adcb0b37": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "757ea235-808b-4265-a4e2-54a422c84bad": [
+            {
+                "resultItem": "minecraft:apple",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "2a358b6c-a9f6-468b-a968-58af84ce3890": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "db5b9d64-6baf-4e06-af37-322936dfff09": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "ddb9018c-7a5e-409d-95ee-83246f038390": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "69bf89e8-ba8d-40c2-bc8a-aaa6308fed14": [
+            {
+                "resultItem": "minecraft:dripstone_block",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8b4d571f-2c24-48c3-85cb-8bdb0da092fc": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "b17c93e9-5d35-4f8b-a15f-5645a2916cc7": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "c562088a-d1a3-44f6-be76-6a69c65749e2": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "8d47885d-e8c9-4c79-883a-a48e2ac277ec": [
+            {
+                "resultItem": "minecraft:cooked_chicken",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "3cd679be-013f-4f8e-87c5-9aed91fcd735": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:silk_touch\":1}}}}"
+            }
+        ],
+        "98d42c66-fe08-49b4-9629-6dc580212296": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:flame\":1}}}}"
+            }
+        ],
+        "bd2cd4fa-48d9-4fb9-b1e3-8b9024708ac5": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:breach\":4}}}}"
+            }
+        ],
+        "a18ad46f-4f80-451f-a118-0f99e4617be2": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:loyalty\":3}}}}"
+            }
+        ],
+        "bf622bb0-c27b-4449-a331-dd7b74f51849": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:aqua_affinity\":1}}}}"
+            }
+        ],
+        "0e1a3c9a-f3fe-4004-a99f-059c6a4fd2a6": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:unbreaking\":3}}}}"
+            }
+        ],
+        "123f349f-b841-4825-a1c0-b58c4aaea2e7": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:infinity\":1}}}}"
+            }
+        ],
+        "2fead23a-dd65-4e38-bbd4-a657da78175d": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:feather_falling\":4}}}}"
+            }
+        ],
+        "51f6af3e-11a4-4a33-9651-2d0bbe5c02d5": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:power\":5}}}}"
+            }
+        ],
+        "4505d844-7ba2-4109-994b-e0c1d8bbc268": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:protection\":4}}}}"
+            }
+        ],
+        "82782235-9973-4675-b7cd-3d78b23f48f2": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:smite\":5}}}}"
+            }
+        ],
+        "6d2bc42a-3b3f-4b63-846e-e6fecea2395c": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:bane_of_arthropods\":5}}}}"
+            }
+        ],
+        "d0f2a991-56c8-418d-b148-94b8301b4156": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:impaling\":5}}}}"
+            }
+        ],
+        "be75f6b3-57ff-4a11-b5a0-e7cf4279e40b": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:sweeping_edge\":3}}}}"
+            }
+        ],
+        "cf6a42ec-dd37-4b21-9fff-0a2edb9417a0": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:thorns\":3}}}}"
+            }
+        ],
+        "15b456af-e3b9-4343-b14b-c2f04c452ade": [
+            {
+                "resultItem": "minecraft:enchanted_book",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:book",
+                "resultItemNBT": "{components:{\"minecraft:stored_enchantments\":{levels:{\"minecraft:looting\":3}}}}"
+            }
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": []
+    },
+    "globalBookmarks2": {
+        "armorer": [],
+        "butcher": [],
+        "cartographer": [],
+        "cleric": [],
+        "farmer": [],
+        "fisherman": [],
+        "fletcher": [],
+        "leatherworker": [],
+        "librarian": [],
+        "mason": [],
+        "shepherd": [],
+        "toolsmith": [],
+        "weaponsmith": [],
+        "nitwit": [],
+        "none": [],
+        "___+++___ wandering ___+++___": []
+    }
+}

@@ -1,0 +1,16 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Island Outpost:O:1918:67:-1592:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Axolotl Outpost:O:-1420:67:-758:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:0:64:0:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn α:α:5000:84:5000:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn β:β:-5000:64:-5000:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn γ:γ:-5000:65:5000:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn δ:δ:5000:63:-5000:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Skyward Stronghold:B:121:157:440:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Desert Citadel:B:-466:73:29:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Subterranica:B:-291:4:-4271:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Northern Frontier:J:-3975:106:-6278:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Highland Foundry:J:4470:116:6168:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Riverside Lodge:J:-4805:64:-4655:10:false:0:gui.xaero_default:false:0:0:false

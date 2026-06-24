@@ -1,0 +1,88 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "C:\\Users\\FatherOfAlways\\AppData\\Roaming\\ModrinthApp\\profiles\\Shroomlight\\schematics\\NIL_Outpost_Grinder_-_Base_R1.litematic",
+        "name": "NIL Outpost Grinder - Base R1",
+        "origin": [
+          304,
+          115,
+          -2227
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "hash_code": "c9eda2df-a6b4-44e8-bb96-282c9a3f144a",
+        "placements": [
+          {
+            "name": "NIL Outpost Grinder - Base R1",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "NIL Outpost Grinder - Base R1",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          -4308,
+          63,
+          -5020
+        ],
+        "pos2": [
+          -4308,
+          63,
+          -5020
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  },
+  "block_entities": {}
+}

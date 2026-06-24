@@ -1,0 +1,58 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Guardian Farm:F:208:185:-3840:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager XP Farm:F:-226:197:-1256:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:West Exit:W:-3807:72:0:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:East Exit:W:2707:72:0:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:End Portal:E:2739:64:-4725:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Music Disc Farm:F:1639:195:-5152:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:End Portal:E:-2717:64:4953:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stone Farms:F:280:85:-335:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sand Duper:C:-2651:63:-4458:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:North Junction:W:0:76:-5000:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:South Junction:W:0:76:5000:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:First Outpost:O:32:142:307:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:End Portal:E:1368:69:1113:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pufferfish, Tropical Fish Farm:F:-1420:126:-959:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Slime Farm:F:-4485:190:-6193:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Powdered Snow Farm:F:1621:94:-2844:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mob Head Farm:F:3014:155:4117:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tree Farms:F:-1013:96:-4997:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ice Farm:F:4536:77:4682:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Warden Switch:C:-296:111:-2921:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Guardian Farm:F:-3488:185:-5904:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager Farm:F:6473:193:-3287:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pumpkin/Melon Farm:F:192:86:592:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Creeper Farm:F:-251:61:552:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Sugarcane Farm:F:-208:75:512:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Piglin Farm:F:-301:70:511:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:A:A:3296:63:6828:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Eyeblossom Farm:F:-5408:96:-3762:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pink Petals Farm:F:-3086:112:3232:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tulip Farm:F:-1225:78:320:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Orchid Farm:F:-994:64:-16:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Creaking Farm:F:-2405:78:-4726:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Raid Farm:F:-1977:160:-3648:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:A:A:1787:109:5689:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Chorus Plant Farm:F:-4620:128:-4912:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pillager Farm:F:-1687:224:-4344:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Drowned Farm:F:3980:194:5412:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Salmon Farm:F:343:91:-152:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Witch Farm:F:116:186:755:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Gold Farm:F:-6121:29:4081:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Depression Garden:D:-2729:39:2507:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ranch:O:-2184:70:-4502:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Island Outpost:O:1918:67:-1592:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Axolotl Outpost:O:-1420:67:-758:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:0:64:0:1:false:0:gui.xaero_default:false:0:1:false
+waypoint:Pseudo-Spawn α:α:5000:84:5000:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Pseudo-Spawn β:β:-5000:64:-5000:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Pseudo-Spawn γ:γ:-5000:65:5000:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Pseudo-Spawn δ:δ:5000:63:-5000:9:false:0:gui.xaero_default:false:0:1:false
+waypoint:Skyward Stronghold:B:121:157:440:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Desert Citadel:B:-466:73:29:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Subterranica:B:-291:4:-4271:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Northern Frontier:J:-3975:106:-6278:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Highland Foundry:J:4470:116:6168:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Riverside Lodge:J:-4805:64:-4655:10:false:0:gui.xaero_default:false:0:0:false

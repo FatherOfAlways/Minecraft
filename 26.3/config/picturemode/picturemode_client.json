@@ -1,0 +1,11 @@
+{
+  "format": "png",
+  "format_settings": {
+    "jpg": {
+      "quality": 100
+    }
+  },
+  "screenshot_settings": {
+    "res_multiplier": 2.0
+  }
+}

@@ -1,0 +1,33 @@
+{
+    "Features": {
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "always_include_hotbar": true,
+        "first_run": false,
+        "enable_profiles": {
+            "value": false
+        },
+        "restock_hotbar": {
+            "value": true
+        }
+    },
+    "SortSettings": {
+        "restock_hotbar": {
+            "value": true
+        }
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 6,
+        "threshold_unit": "PERCENTAGE",
+        "auto_refill_match_custom_name": false,
+        "auto_refill_match_nbt": false
+    },
+    "EditProfiles": {
+        "enable_profiles": {
+            "value": false
+        }
+    }
+}

@@ -1,0 +1,23 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:South Junction:S:0:134:628:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:North Junction:N:0:134:-628:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Nether Roof Central:C:0:129:0:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn α:α:632:133:628:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn γ:γ:-632:133:628:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn β:β:-632:133:-628:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Pseudo-Spawn δ:δ:632:133:-628:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tunnel Bore:F:-811:118:568:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Basalt Farm:F:-809:154:435:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Highland Foundry Farms:B:563:136:771:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Northern Frontier Farms:B:-487:134:-787:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Blaze Farm:F:-697:67:699:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ghast Farm:F:-765:129:381:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zombie Piglin Farm:F:-775:129:509:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Piglin Trade Farm:F:-720:129:502:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Hoglin Farm:F:-848:129:617:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Magma Cream Farm:F:-902:129:428:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Froglight Farm:F:-918:129:469:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Blaze Farm:F:-741:60:-764:1:true:0:gui.xaero_default:false:0:0:false
+waypoint:Wither Skeleton Farm:F:-926:45:619:12:false:0:gui.xaero_default:false:0:0:false

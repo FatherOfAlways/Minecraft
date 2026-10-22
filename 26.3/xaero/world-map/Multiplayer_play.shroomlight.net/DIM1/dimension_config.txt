@@ -1,0 +1,4 @@
+MWName:mw$1836673866:Map 2
+MWName:mw$default:Map 1
+caveModeType:1
+dimensionTypeId:minecraft:the_end

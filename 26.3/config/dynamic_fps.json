@@ -1,0 +1,8 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "invisible": {
+      "frame_rate_target": 1
+    }
+  }
+}

@@ -17,7 +17,11 @@ packwiz update --all
 
 When Minecraft or mod loader (Fabric) update to nev versions you need to migrate your modpack accordingly.
 
-1. Make sure all the mods you want to include have been updated and are compatible with the new latest Minecraft version. You can find the update checkers on [Shroomlight.net](https://shroomlight.net/client/settings).
+1. Make sure all the mods you want to include have been updated and are compatible with the new latest Minecraft version. You can find the update checkers on [Shroomlight.net](https://shroomlight.net/client/settings). Update checker usage:
+
+	```bash
+	sh "/path/to/ServerUpdates.sh" [MC_VERSION]
+	```
 
 2. Perform the migration:
 

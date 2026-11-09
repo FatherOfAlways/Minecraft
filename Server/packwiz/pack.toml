@@ -1,0 +1,13 @@
+name = "Shroomlight"
+author = "FatherOfAlways"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "79340684ededc7eecc23d2d213d0a9bacda3524bd258a0eecb686b284bc03008"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "26.3"

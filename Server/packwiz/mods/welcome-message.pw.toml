@@ -1,0 +1,13 @@
+name = "Welcome Message"
+filename = "welcomemessage-26.3.0-2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DMK2eYu7/versions/EdUUq0em/welcomemessage-26.3.0-2.9.jar"
+hash-format = "sha512"
+hash = "2e12aa704e28340bfa4fb2c450b339dd77f71c7666bb4f18167f476f2ade0aa3c57a8e23147258a8c22b8a57b78472db2ec92fc3c4f6b34664e22d8a2979e09d"
+
+[update]
+[update.modrinth]
+mod-id = "DMK2eYu7"
+version = "EdUUq0em"
